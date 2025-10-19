@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        {{ partial "head.html" . }}
+        <title></title>
+    </head>
+    <body>
+    <div class="container">
+        {{ partial "header.html" . }}
+        <main>
+            <h3>{{ .Title }}</h3>
+            <ul>
+                <li><a href="books">Book Reviews</a></li>
+                <li><a href="anime">Anime Reviews</a></li>
+                <li><a href="movies">Movie Reviews</a></li>
+                <li><a href="games">Game Reviews</a></li>
+           </ul>
+       </main>
+    </div>
+    {{ partial "footer.html" . }}
+    </body>
+</html>

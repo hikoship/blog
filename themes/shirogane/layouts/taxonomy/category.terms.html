@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        {{ partial "head.html" . }}
+        <title></title>
+    </head>
+    <body>
+    <div class="container">
+        {{ partial "header.html" . }}
+        <main>
+            <h3>{{ .Title }}</h3>
+            <ul>
+                {{ range .Data.Terms.ByCount }}
+                <li><a href="{{ .Name | urlize }}">{{ .Name }} ({{ len .Pages }})</a></li>
+                {{ end }}
+            </ul>
+        </main>
+    </div>
+    {{ partial "footer.html" . }}
+    </body>
+</html>

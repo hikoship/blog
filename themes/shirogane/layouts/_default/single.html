@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        {{ partial "head.html" . }}
+    </head>
+    <body>
+        <div class="container">
+            {{ partial "header.html" . }}
+            <main role="main">
+                <article>
+                    <header class="meta" align="center">
+                        <h2>{{ .Title }}</h2>
+                        <div>
+                            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006/01/02" }}</time>
+                            {{ if .Params.categories }}
+                            <span class="divider"> · </span>
+                            <span><a href="/categories/{{ .Params.categories | urlize }}">{{ .Params.categories }}</a></span>
+                            {{ end }}
+                        </div>
+                    </header>
+                    <div class="content">
+                        {{ if in .Params.collection "Books" }}
+                        <div class="meta">
+                            <span class="key">Title: </span>
+                            <span class="value"><a href="{{ .Params.link }}">{{ .Params.name }}</a></span>
+                            <br>
+                            <span class="key">Author: </span>
+                            <span class="value">{{ .Params.author }}</span>
+                            <br>
+                            {{ if .Params.translator }}
+                            <span class="key">Translator: </span>
+                            <span class="value">{{ .Params.translator }}</span>
+                            <br>
+                            {{ end }}
+                            <span class="key">Rating: </span>
+                            <span class="value">{{ range seq 1 .Params.rate }}✭{{ end }}</span>
+                        </div>
+                        {{ end }}
+
+                        {{ .Content }}
+                    </div>
+                </article>
+                {{ partial "disqus.html" . }}
+            </main>
+        </div>
+    {{ partial "footer.html" . }}
+    </body>
+</html>

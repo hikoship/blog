@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Great Garage</title>
+        {{ partial "head.html" . }}
+    </head>
+    <body>
+        {{ partial "header.html" . }}
+        <main>
+            {{ $paginator := .Paginate (where .Site.Pages "Section" "post") }}
+            {{ range $paginator.Pages }}
+            <article>
+                <div class="summary">
+                    <span class="title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></span>
+                    <div class="summary-meta">
+                        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006/01/02" }}</time>
+                        {{ if .Params.categories }}
+                        <span class="divider"> · </span>
+                        <span><a href="/categories/{{ .Params.categories | urlize }}">{{ .Params.categories }}</a></span>
+                        {{ end }}
+                    </div>
+                    <div class="summary-content">
+                        {{ if .Params.summary }}
+                        {{ .Params.summary }}
+                        <br>
+                        <a class="readmore" href="{{ .RelPermalink }}">More...</a>
+                        {{ end }}
+                    </div>
+                </div>
+            {{ end }}
+            <span style="float: left;">{{ if $paginator.HasNext }}<a href="{{ $paginator.Next.URL }}">❮ Older posts</a>{{ end }}</span>
+            <span style="float: right;">{{ if $paginator.HasPrev }}<a href="{{ $paginator.Prev.URL }}">Newer posts ❯</a>{{ end }}</span>
+            </article>
+        </main>
+        <br>
+        {{ partial "footer.html" . }}
+    </body>
+</html>

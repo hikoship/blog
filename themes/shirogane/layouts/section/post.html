@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        {{ partial "head.html" . }}
+    </head>
+    <body>
+    <div class="container">
+        {{ partial "header.html" . }}
+        <main>
+            <h2 align="center">{{ .Title }}</h2>
+            <ul>
+                {{ $post := where .Site.Pages "Section" "post" }}
+                {{ range $post.GroupByDate "2006"}}
+                    <h3>{{ .Key }}</h3>
+
+                    {{ range .Pages}}
+                        <li><time>{{ .Date.Format "01-02" }} <span class="divider">·</span> </time><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                    {{ end }}
+                {{ end }}
+            </ul>
+        </main>
+    </div>
+
+    {{ partial "footer.html" . }}
+    </body>
+</html>
