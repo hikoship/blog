@@ -1,0 +1,100 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drafts on The Great Garage</title>
+    <link>http://localhost:1313/draft/</link>
+    <description>Recent content in Drafts on The Great Garage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Jul 2018 -0700</lastBuildDate>
+    <atom:link href="/draft/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google Chromecast VS Amazon Fire TV, And Echo Dot</title>
+      <link>http://localhost:1313/draft/chromecast-firetv-echodot/</link>
+      <pubDate>Sat, 28 Jul 2018 -0700</pubDate>
+      
+      <guid>http://localhost:1313/draft/chromecast-firetv-echodot/</guid>
+      <description>&lt;p&gt;I haven&amp;rsquo;t written blog since the end of last year, which is a really long period of time with many stories happend. Nor have I read any books, if I remember correctly, and that&amp;rsquo;s another story. The fact is, I moved to Bay Area last month together with Miss Gui, and started our career at respective companies.&lt;/p&gt;
+&lt;p&gt;A new home should have a new TV, so here appears a TV. It&amp;rsquo;s a FHD 49-inch Insignia TV with only 200 bucks. I can&amp;rsquo;t tell the details of color display. I know it&amp;rsquo;s good enough for me, though. The TV is dumb (not smart), so in the first a few days, I had to connect the TV to a laptop to play videos on it. You know, it was far from the best solution. What I want is to insert a tool in the TV, and control it to play YouTube videos with my phone. Basically, I have the three possible solutions. Apple TV works best with my Macbook Pro and iPhone, but it&amp;rsquo;s way more pricer than other two competitors. Fire TV has a remote, and looks like it can satisfy my requirements. Chromecast is the cheapest one (20 bucks), and is totally controlled by Phone, which is also good to me. Therefore, I choosed Chromecast as my first smart TV device.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Best Of 2017</title>
+      <link>http://localhost:1313/draft/best-of-2018/</link>
+      <pubDate>Tue, 19 Dec 2017 +0800</pubDate>
+      
+      <guid>http://localhost:1313/draft/best-of-2018/</guid>
+      <description>&lt;p&gt;「Best」系列是从二〇一五年开始写的。当时刚开始鼓捣博客系统，看到几位关注的博主都有写年终总结的习惯，自己也就尝试了一下。在此之前，总觉得每一年都平平淡淡，无非就是升学、玩游戏、偶尔的短途旅游。但是现在，每次写年终总结，都觉得这一年发生了好多好多事。不知是因为往年的事情被我疏忽了，还是说每个人的人生，在这个年龄都会发生剧变？亦或是我自己本身改变了呢？&lt;/p&gt;
+&lt;h3 id=&#34;学业&#34;&gt;学业&lt;/h3&gt;
+&lt;p&gt;很小的篇幅，也是最后的篇幅&lt;/p&gt;
+&lt;h3 id=&#34;工作&#34;&gt;工作&lt;/h3&gt;
+&lt;p&gt;忙碌，改变用户的喜悦&lt;/p&gt;
+&lt;h3 id=&#34;游戏&#34;&gt;游戏&lt;/h3&gt;
+&lt;p&gt;splatoon
+Overcooked
+大乱斗
+宝可梦
+无双大蛇
+马里奥网球
+马里奥聚会&lt;/p&gt;
+&lt;h3 id=&#34;旅行&#34;&gt;旅行&lt;/h3&gt;
+&lt;p&gt;夏威夷
+湾区
+大峡谷
+拉斯维加斯
+黄石
+优胜美地
+阿拉斯加&lt;/p&gt;
+&lt;h3 id=&#34;其他&#34;&gt;其他&lt;/h3&gt;
+&lt;p&gt;进击的巨人
+明星大侦探
+声入人心
+声临其境
+我是歌手
+好声音
+跑男
+极限挑战
+吐槽大会&lt;/p&gt;
+&lt;h3 id=&#34;best-of-2018&#34;&gt;Best of 2018&lt;/h3&gt;
+&lt;p&gt;和往年一样，最后是这一年想要推荐的的技术、产品和作品：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;《Overcooked》（1&amp;amp;2）&lt;/li&gt;
+&lt;li&gt;Chromecast&lt;/li&gt;
+&lt;li&gt;《Splatoon 2》&lt;/li&gt;
+&lt;li&gt;《人类简史》&lt;/li&gt;
+&lt;li&gt;《仿生人会梦见电子羊吗》&lt;/li&gt;
+&lt;li&gt;Google Pixel 2&lt;/li&gt;
+&lt;li&gt;Google Pixelbook&lt;/li&gt;
+&lt;li&gt;《塞尔达传说：旷野之息》&lt;/li&gt;
+&lt;li&gt;iPhone SE——没什么好说的，图个省心&lt;/li&gt;
+&lt;li&gt;《星际牛仔》&lt;/li&gt;
+&lt;li&gt;《进击的巨人》&lt;/li&gt;
+&lt;li&gt;漫威电影宇宙&lt;/li&gt;
+&lt;li&gt;Spf13 Vim——我使用的 Vim 配置。该配置作者也是本博客的生成引擎 Hugo 的作者。可惜该配置似乎已不再维护。&lt;/li&gt;
+&lt;li&gt;tmux——SSH 神器&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;最后，感谢这一年在学习、找工、生活上各路贵人的相助，希望大家身体健康，笑口常开。希望自己和我鬼一切安好，珍惜时间，多多努力。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>琐事 2</title>
+      <link>http://localhost:1313/draft/trivia2/</link>
+      <pubDate>Mon, 29 Aug 2016 -0700</pubDate>
+      
+      <guid>http://localhost:1313/draft/trivia2/</guid>
+      <description>&lt;p&gt;过去一年，我经常以某个特定的时间跨度为单位，想像我在这个单位之后的生活。大四刚开学的时候，我坐在包玉刚图书馆门口，思源湖边的台阶上，看着水面下的鱼儿，问自己：一年后，我会在哪里？我会去 UCSD 吗？我能到美国吗？我会 gap 一年吗？&lt;/p&gt;
+&lt;p&gt;时光匆匆过，很多事尘埃落定，但我依然对未知的生活充满迷惑。我开始问自己：一个月后，我眼中的洛杉矶是什么样子？我会被抢劫吗？我的房子能住吗？我会快乐吗？我能在 USC 交到新朋友吗？&lt;/p&gt;
+&lt;p&gt;现在，不知不觉，我已经这座城市待了三周。这种感觉很奇怪。事实上，这已经是我除了青岛、上海和波恩之外，停留时间最长的城市；而很快，它将超过波恩，排到我生命中的第三位。但是这三周来，我的活动半径不超过学校周围，每天在教室、超市、家之间三点一线，对外界的一切一无所知。&lt;/p&gt;
+&lt;p&gt;这有点不正常，我不太清楚为什么会这样。周围的同学不是这样的。洛杉矶虽然没有很多吸引我的地方，但如果说在这里生活的人没有去过圣莫妮卡，没去过好莱坞，没去过格里菲斯，没去过中国城韩国城，甚至没逛过什么商店，那总是很不寻常的。甚至别的城市的同学也不是这样的。我的好朋友们，在匹兹堡，在香槟，在麦迪逊，在休斯顿的村里，都有各自多彩的生活。&lt;/p&gt;
+&lt;p&gt;我在交大的时候也不是个爱热闹的人。好在有两个活力四射的室友带着，经常一起出去玩玩，夜里喝喝酒，看看星空，谈谈未来，确实挺惬意的。&lt;/p&gt;
+&lt;p&gt;为什么我似乎有着更多的困难呢？临行前的准备纷繁冗杂，我查阅了很多很多资料，做了很多很多准备。我有一个清单，列着几十项来到这边要做的事情。尽管如此，还是有很多预料不到的困难会发生。&lt;/p&gt;
+&lt;p&gt;从浦东出发的时候，飞机起飞延误，在香港经历了半小时的极速转机；尽管人顺利来到了洛杉矶，行李箱却被扔在后一架飞机上。机场的大叔通过电话联系我，产生了无数的沟通误会，最终在第三天的凌晨，我在征求房东的意见后，和室友勇敢走到凶险的马路上，从快递大哥手中取回了行李箱。回到屋内的一刹那，我感到极其放松愉快。躺在床上心有余悸，同时对未来充满信心：困难总会被克服，生活总会慢慢变好。&lt;/p&gt;
+&lt;p&gt;虽然我很羡慕一些同学，但就我自己而言，现在的生活确实正如那天晚上的期待，已经变得更好。我很高兴，在之前的设想中，担忧的状况几乎都没有发生。虽然不是最好的选择，但 USC 给我的印象还不错；在学校南部的短租很顺利，房东很好，也成功从臭名昭著的暴力街区全身而退；新房子挺宽敞，没有床虫，管理员也比想象中好说话，跟室友相处也很融洽；做饭并没有想象中困难，在时间允许的情况下，我愿意尝试一些新的做法。困难仍在不断出现，但已经越来越容易，也越来越有信心应对。我们修理了水管、开通了网络、按部就班地做事，把清单中的内容一项项打勾。&lt;/p&gt;
+&lt;p&gt;在我此前的设想中，得到了这些，我就该满足了。剩下该做的就是安心地学习，找实习，然后早点离开这个地方。现在，想法又有了变化。我很自然地遇到了一些朋友，并且希望能够多一些学习之外的交往。我还是耐不住寂寞，还是想要正常人的生活。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

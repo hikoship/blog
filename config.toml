@@ -1,0 +1,21 @@
+baseurl = "http://blog.hgao.net"
+languageCode = "en-us"
+title = "The Great Garage"
+theme = "shirogane"
+preserveTaxonomyNames = true
+pagination.pagerSize = 5
+disableLiveReload = true
+editor = "atom"
+
+pygmentsStyle = "monokai"
+pygmentsUseClasses = true
+
+[author]
+name = "HiKo"
+
+[permalinks]
+content = "/:section/:filename/"
+
+[taxonomies]
+category = "categories"
+collection = "collection"
