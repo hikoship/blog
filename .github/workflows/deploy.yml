@@ -1,0 +1,68 @@
+name: Deploy Hugo to GitHub Pages
+
+on:
+  push:
+    branches: ["main"]        # Deploy when pushing to main
+  workflow_dispatch:          # Allow manual trigger
+
+permissions:
+  contents: write             # Allow writing to gh-pages branch
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: false        # Set to true if your theme is a submodule
+          fetch-depth: 0
+
+      # 1) Install Hugo (extended version)
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.151.2' # Change to match your local Hugo version
+          extended: true
+
+      # # 2) (Optional) Install Node if your theme requires PostCSS or Tailwind
+      # - name: Setup Node
+      #   if: hashFiles('package.json') != ''
+      #   uses: actions/setup-node@v4
+      #   with:
+      #     node-version: 20
+
+      # - name: Install frontend dependencies
+      #   if: hashFiles('package-lock.json') != ''
+      #   run: npm ci
+
+      # 3) Build the site (auto-detect baseURL for user vs project pages)
+      - name: Build site
+        env:
+          REPO: ${{ github.repository }}                  # e.g. user/repo
+          OWNER: ${{ github.repository_owner }}           # e.g. user
+          NAME: ${{ github.event.repository.name }}       # e.g. repo
+        run: |
+          # Auto-detect baseURL based on repository type
+          if [[ "${REPO}" == "${OWNER}/${OWNER}.github.io" ]]; then
+            BASEURL="https://${OWNER}.github.io/"
+          else
+            BASEURL="https://${OWNER}.github.io/${NAME}/"
+          fi
+          echo "Using baseURL: $BASEURL"
+          hugo --minify --gc -b "$BASEURL"
+
+          # List the first few generated files for debugging
+          test -d public && ls -la public | head -n 30
+
+      # 4) Deploy to gh-pages branch
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          # Uncomment and set if using a custom domain:
+          # cname: blog.example.com
