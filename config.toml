@@ -14,7 +14,7 @@ pygmentsUseClasses = true
 name = "HiKo"
 
 [permalinks]
-content = "/:section/:filename/"
+content = "/:section/:contentbasename/"
 
 [taxonomies]
 category = "categories"
