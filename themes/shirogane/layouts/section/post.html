@@ -9,12 +9,12 @@
         <main>
             <h2 align="center">{{ .Title }}</h2>
             <ul>
-                {{ $post := where .Site.Pages "Section" "post" }}
+                {{ $post := where .Site.RegularPages "Section" "post" }}
                 {{ range $post.GroupByDate "2006"}}
                     <h3>{{ .Key }}</h3>
 
                     {{ range .Pages}}
-                        <li><time>{{ .Date.Format "01-02" }} <span class="divider">·</span> </time><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                        <p><time>{{ .Date.Format "01-02" }} <span class="divider">·</span> </time><a href="{{ .RelPermalink }}">{{ .Title }}</a></p>
                     {{ end }}
                 {{ end }}
             </ul>

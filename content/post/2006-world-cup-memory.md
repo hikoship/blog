@@ -9,7 +9,7 @@ title = "德国世界杯十周年回忆录"
 
 （背景音乐系二〇〇六德国世界杯主题曲）
 
-<iframe align="center" frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="http://music.163.com/outchain/player?type=2&id=5178518&auto=1&height=66"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4aOxDHqWyK0?si=nwySKWISPmig4U0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 二〇〇六年的德国世界杯，群星璀璨，精彩纷呈，留下了众多至今仍被人津津乐道的经典画面。那是我第一次全程关注世界杯的比赛。不同于韩日世界杯和葡萄牙欧洲杯的耳濡目染，我不仅看了新闻，还第一次半夜起来看直播。
 
@@ -85,7 +85,7 @@ H 组，彼时的西班牙还背负着「预选赛之王」这一颇具讽刺意
 
 <img align="center" class="img-responsive" src="/images/post/wc2006-rooney.jpg" alt="鲁尼吃到红牌">
 
-德阿大战，「宿敌」之争如期上演。那天夜里，妈妈上夜班，一个人在家，伴随着凉爽的空调、半个冰西瓜、一台小电视、和小学同学一起在线的网游。十年后，提起「暑假」，第一个在我脑海中闪现的镜头，就是这样一副单纯而快乐的画面。
+德阿大战，「宿敌」之争如期上演。在那个炎热的夏夜，我身边是凉爽的空调、半个冰西瓜、一台小电视、和小学同学一起在线的网游。十年后，提起「暑假」，第一个在我脑海中闪现的镜头，就是这样一副单纯而快乐的画面。
 
 下半场，身材矮小的阿亚拉头球先声夺人，随后克洛泽终于拿出看家本领，还对方一个头球，帮助德国扳平比分。经历三十分钟加时，比赛进入点球决胜。准备期间，莱曼研究着手里的小纸条，而从金球沦为的替补卡恩，走上前给他握手打气。此情此景，感人至深，成为团队足球的完美诠释，并被后人反复歌颂。最终，莱曼扑出了坎比亚索的点球，坎司令泣不成声。德国实现了赛前的目标，得以以东道主的身份率先闯入四强，打满全部的七场比赛。
 

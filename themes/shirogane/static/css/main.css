@@ -1,8 +1,8 @@
 /*skeleton*/
 html{
     height: 100%; /* key value */
-    font-weight: 300;
-    font-family: 'Helvetica Neue', Helvetica, 'Lantinghei SC', 'Hiragino Sans GB', sans-serif;
+    font-weight: normal;
+    font-family: 'Source Han Sans', 'Hiragino Sans GB', 'Arial', sans-serif;
     line-height: 1.75em;
     color: #333;
 }
@@ -165,7 +165,7 @@ a:hover {
 
 div.content a {
     text-decoration: none;
-    border-bottom: dotted 1px;
+    border-bottom: solid 1px gray;
 }
 
 div.content a:hover {
@@ -179,7 +179,7 @@ div.content a:hover {
 }*/
 
 a.readmore {
-    border: 2px solid grey;
+    border: 2px solid red;
     padding: 0.2em 0.5em;
     line-height: 2.5em;
     border-radius: 5px;
