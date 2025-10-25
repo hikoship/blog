@@ -39,7 +39,7 @@
 &lt;p>&lt;img src="https://live.staticflickr.com/65535/52864126860_1143237012_k.jpg" alt="IMAGE">&lt;/p>
 &lt;p>（哈雷阿卡拉火山的日出，03/19/2018 06:22AM，iPhone 6S）&lt;/p>
 &lt;p>我已不记得那一天是最终如何结束的。或许在下一次冒险时，这些回忆，连同那些我此刻写作时已忘却的，都会被重新唤起。&lt;/p>
-&lt;!-- raw HTML omitted --></description></item><item><title>NAS 视频串流解决方案</title><link>https://blog.hgao.net/post/nas-streaming-solution/</link><pubDate>Tue, 18 Apr 2023 +0000</pubDate><guid>https://blog.hgao.net/post/nas-streaming-solution/</guid><description>&lt;p>起笔于二〇二二年十一月，发表于二〇二三年四月。&lt;/p>
+&lt;iframe style="position: relative; width: 100%;" height="360" src="https://www.youtube.com/embed/Y907qjrWP_w" title="YouTube video player" frameborder="0" allow="clipboard-write; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe></description></item><item><title>NAS 视频串流解决方案</title><link>https://blog.hgao.net/post/nas-streaming-solution/</link><pubDate>Tue, 18 Apr 2023 +0000</pubDate><guid>https://blog.hgao.net/post/nas-streaming-solution/</guid><description>&lt;p>起笔于二〇二二年十一月，发表于二〇二三年四月。&lt;/p>
 &lt;p>某个周五的晚上，我和鬼鬼结束了一周的工作，坐在电视机前，满怀期待地打开 NAS 上保存的某热门电影宇宙的最新一部作品。然而，视频画面却十分不流畅，几秒中卡顿一次，完全无法正常观看。&lt;/p>
 &lt;p>就在几个小时前，我还得意地告诉鬼鬼，我搞到了这部作品的 4K HDR 高清资源，盛情邀请她一同观赏，来度过这个愉快的夜晚。如今这个局面，可谓十分尴尬——这不是翻车了嘛！&lt;/p>
 &lt;p>我的 NAS 是群晖入门级的 DS220j，购于两年多以前。不仅盘位只有两个，CPU 和内存也是捉襟见肘，只能跑跑自带的下载、文件传输、视频监控等功能，不支持 Docker。NAS 里存放着一些电影和剧集，通过海外版小米盒子（运行安卓系统）上的 VLC 播放。大部分资源都能流畅播放，也支持字幕。虽然没有任何的媒体管理功能，界面也十分粗糙，但考虑到播放效果过得去，我一直对这套挂壁方案还算满意，直到这一次。&lt;/p>
@@ -56,7 +56,7 @@
 &lt;p>我用 Infuse 打开了这个 40GB 的视频。嗯，怎么说呢，真是如沐春风啊。画面、声音全部正常，播放流畅无卡顿，并且自动开启 HDR、加载字幕。界面美观易用，如同 iOS 的第一方 app，和 VLC 那明显从 PC 移植过来的界面相比，简直是天壤之别。它甚至还有海报和字幕搜刮功能。原来这才是专业的影视播放器啊！那一刻，我就知道我再也回不去 VLC 了。就这样，串流播放在手机上完美实现了。&lt;/p>
 &lt;p>现在回头看看小米盒子的问题。小米盒子离路由器很近，WiFi 信号不会比 iPhone差。硬件方面，根据说明书，它支持硬件解 H.265。看来换一个播放器 app 就有希望解决问题。安卓上对标 Infuse 的播放器应该是 Kodi，功能同样强大，但界面是满满的工程师和极客味，能感受到两者社区的巨大差异。Kodi 可以流畅播放高清视频，声音也正常。&lt;/p>
 &lt;p>然而，我随即意识到小米盒子本身有些问题。它不能开启 HDR，而且分辨率被锁在 1080p，无法设置为 2160p。这些功能在说明书中是支持的。尝试了更换 HDMI 线，无果。似乎小米盒子是不堪大用了。那么电视自带的 Roku 系统呢？Roku 的软件生态不如安卓，只能用它自带的播放器。虽然也可以流畅播放高清视频，也支持 HDR，但不支持字幕，界面功能也很简陋。&lt;/p>
-&lt;p>事已至此，看来只能花点钱升级一下播放设备了（&lt;!-- raw HTML omitted -->太好了，有理由买新玩具了&lt;!-- raw HTML omitted -->）。&lt;/p>
+&lt;p>事已至此，看来只能花点钱升级一下播放设备了（&lt;del>太好了，有理由买新玩具了&lt;/del>）。&lt;/p>
 &lt;p>市面上主流的产品有 Apple TV，Google Chromecast with Google TV （名字真长啊） 和 NVIDIA Shield。Shield 对家庭影院和外接音响的支持最好，但是我短期内并没有组建家庭影院的计划。而且有了小米盒子的教训，第三方设备不在首选之列，更何况它既贵又丑。Apple TV 和 Chromecast 都是我很喜欢的产品。安卓系统还有一个优势，那就是我们在用的 K 歌 app 只有安卓版本。如果选择了 Apple TV，意味着需要为了 K 歌保留安卓系统的小米盒子。然而这些都不重要，我毫不犹豫地选择了 Apple TV。这在我第一次使用 Infuse 的时候，就已经注定了。&lt;/p>
 &lt;p>此时 Apple TV 2022 发售在即，2021 版获得了不错的折扣，果断入手。2022 有一些不错的升级，不过对于我的使用场景，2021 已经完全够用。&lt;/p>
 &lt;p>两天后，亚马逊准时送达。设置好新机，第一件事就是安装 Infuse。果然没有令我失望，Apple TV 的 Infuse 采用和 iOS 同样的交互逻辑和设计语言，配合遥控器的触摸功能，使用体验十分愉悦，在大小屏幕上达成了令人满足的统一。不出意外，Apple TV 通过 Infuse 也能流畅播放 NAS 所有的高清视频资源，各方面效果都无可挑剔。&lt;/p>
