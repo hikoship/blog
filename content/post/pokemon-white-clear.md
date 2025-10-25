@@ -7,6 +7,8 @@ title = "《精灵宝可梦：白》通关感受"
 
 +++
 
+hello
+
 最近忙完答辩，时间比较空闲，打穿了 NDS 平台上的《精灵宝可梦：白》。这是《精灵宝可梦》系列第五世代的首部作品，发售于二〇一〇年九月。游戏采用了三维立体画面，在地图上增加了大量动画。同时，宝可梦的数量也从第四世代的 493 只增加到 649 只。
 
 整个流程花了四五天，打穿主线之后，又找到了六位贤者，捉了几只定点高等级宝可梦，击败了二周目的四大天王和冠军。原本准备继续打战斗地铁，但后来实在是无心选种练级，于是攻略也就此告一段落。至于地铁，就留到「黑白2」中去消化。由于采用了模拟器的加速功能，游戏内部的时间大概三十多小时，实际应该在十小时左右。一周目后期为了加快进度，使用了草丛不遇敌金手指。此外还使用了即时存档大法，所以通关没有什么难度。
@@ -17,11 +19,11 @@ title = "《精灵宝可梦：白》通关感受"
 
 本作中的画面素质让我有些惊喜。一改以往方方正正的视角，采用了立体画面，并在一些场景中使用了变换的视角以及斜向的移动。大地图上人物开始有了动作，飞云市还出现了来来往往的路人。尽管画面效果从来不是《精灵宝可梦》的主旋律（甚至不是任天堂平台游戏的主旋律），但好的画面还是更能让人享受这个虚拟世界。毕竟《精灵宝可梦》也算是一款可以让玩家在其中慢慢发现、细细品味的游戏。
 
-<img align="center" class="img-responsive" src="https://lh3.googleusercontent.com/i-7L5glm7VUS-Tpilc0r4fQwJqOYBeub9tfTncTymuX-6hpHvi0xScqBkedIzO6DOe1UO4y8yq3J-cSFMgY1Aht3Dg-FetAXGDTtlQCZ0bF8XqfmR7f4YuPYzJUnEj2I18u9nV3YhAWLANP4M0B09qqYp99sq7eyIiMLuRCyVvwNSLX_4VA9akIzSSL20AnoaWXlcs-qHGyOzyqqCcy08VvxpdaxdUKSsass4dnZp6UdC_BoxP5Scs13XrAP0M3uc_VrdBc6tmBk8DZX2QvFHdV5_0cPAFs65EZ2c9li59qIRlWRN5pFuqhszU96VOjzUoVN-Kq4cOiFp_RtRVVo9pP-qzSLMT4aLCihOp17qUVeTDJ0yGGR9XMnejIwerEF7_B5cxI83Pgbxa7ePvwXEQ9ogSg6OUAT_nzq3YrKs-S1fK_e0FPlO0EKhlJIC8LW_OZt6B5W7-2_cltFZ00kZMcU2YEX9g9yBOsAquUuvMCjD_a-MZB1hFXNoioaJRhVBpZlR599q4CXVAe729mmodaiddV60-jlOgnnFxlbenROMI1tRDYPL09rYAfUStKdBu3T6-lEXrztQEWMO6wDIg_ir3dxC70=w1080-h801-no" alt="不同视角的吊桥 1（需翻墙）">
+<img align="center" class="img-responsive" src="https://ik.imagekit.io/hikoship/blog/pokemon-white-clear/pokemon-white-clear_1.png?updatedAt=1761359987627" alt="不同视角的吊桥 1（需翻墙）">
 
-<img align="center" class="img-responsive" src="https://lh3.googleusercontent.com/1k73L6y4bSKjMnZyDRL8nZ_W8_FWfN82bXhEkNbMWFGzcZVIfBkV_gblK_yqITzeinHVOkU3XttQWnstK4DVhBkJ8eXTTsd05MxZ0MP5bGOl_2Vbl4bE5Bj0nDa7aXtF27EH6kV-QAxCRJ4sbwHJydTHGhs5_6s8wYZbMXnlDKDoSqp7DnOnrT_ac_q7a43TQ81uLM7zofv3bxw5ASYmrzHqjiuG_p8imRqDpwJ0fZANzJUYUSbtGhvPYH6lb32sLe3uXFljycKaQ7FCbiQ__i4jslEjxv6uickjy4hWTgZqmWWN5k_-UNNVwx0Kl4f3mI9jKU22xIlyVSHt4p3WMnPCu9H9B0ppXN23zzaWzFCCDgHvCJr769tRuKGt6eOWyXODEZGha6QmbY86XXg1CpD34iV45jeGMvAqpU6CsjWuQrMNaMzZTOngqRoewClS1p5Jj2DbGf1hpjqsl2Cbs2XH3CfAIYiBoDRJmm9u-qPK-e5xp1iPejFIZBNPiWkyL6p2mGKJ5xJK2bLXDzi7SidR4bxG2mYazUBloKRuVVHlPf1fl8j33brpkWIKuDWOLiSSVVLIFn0gHd17U9p4AU3F2ZbyL-0=w1080-h807-no" alt="不同视角的吊桥 2（需翻墙）">
+<img align="center" class="img-responsive" src="https://ik.imagekit.io/hikoship/blog/pokemon-white-clear/pokemon-white-clear_2.png?updatedAt=1761359987623" alt="不同视角的吊桥 2（需翻墙）">
 
-<img align="center" class="img-responsive" src="https://lh3.googleusercontent.com/9IUbjFoGxmz_a8jlzLLaVBwyXnlSUxFUjYn7BprDOiCnsXpu9AxQfb_LrmVSgO9-0qAvhLCNhqN2hnExjm9Wql3aO_lUYAonnav0DchM5gW-ZtUENzPD8wgXqFGH7841LPlgJRwqyCD-Vr4mVv64UAPhc3-417fbQe7URiY90hj1Ni-7sRj-s6tIVKJmzX42-yzyxfh_49aQ8hkbABlVJ4-KNIrzYrpQkXIG7BKdORJmIZc-44SLCfBNToF11e8OiuUeM9YIjPedMuNNZFdAChbwamgalVpz05LETXapCS_0SylEYfKLlEhyWIQc05tTL6WeK5m8yVYAOLLYUz6BhNXt-KSeplwNVrTCEVDNCrGHjGM563iuCUwcSKCe_8LNBsngv_NY4jTPfqfWoGTNgqJZqIID0vZjKRNz_1UHqtQdRsGZWE5uzwWe-nva6Ojn8JPWmStQOBfCSO2QoXnk47bLQejGbBa8xiNgfTbiKxJcWvf6I5idTgy7GrUjtpkQ39179FeRu6dVY6K5nrZV-iDR5iWpdXkJuAgwULf59ZiXxe7XEuKxr7OhuJm2af3yKJzJetgHvut2uCykaqLHLflyMrlzA3w=w1080-h804-no" alt="飞云市的环形道路（需翻墙）">
+<img align="center" class="img-responsive" src="https://ik.imagekit.io/hikoship/blog/pokemon-white-clear/pokemon-white-clear_3.png?updatedAt=1761359987617" alt="飞云市的环形道路（需翻墙）">
 
 ### 流程
 

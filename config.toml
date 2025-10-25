@@ -19,3 +19,8 @@ content = "/:section/:filename/"
 [taxonomies]
 category = "categories"
 collection = "collection"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
