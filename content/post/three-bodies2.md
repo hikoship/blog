@@ -1,14 +1,15 @@
-+++
-author = "刘慈欣"
-categories = "Reading"
-date = "2015-07-12T00:00:00Z"
-link = "http://book.douban.com/subject/3066477/"
-rate = 4
-title = "读完了《地球往事：黑暗森林》"
-name = "地球往事：黑暗森林"
-collection = "Books"
-summary = "在上一本书中，作者以「飞刃」切割「审判日号」为高潮，以三体世界和质子的真相大白为结尾，想必在第二部中，一场大战势在难免。"
-+++
+---
+title: "读完了《地球往事：黑暗森林》"
+date: "2015-07-12T00:00:00-08:00"
+categories: "Reading"
+summary: "在上一本书中，作者以「飞刃」切割「审判日号」为高潮，以三体世界和质子的真相大白为结尾，想必在第二部中，一场大战势在难免。"
+draft: false
+collection: "Books"
+author: "刘慈欣"
+rate: 4
+link: "http://book.douban.com/subject/3066477/"
+name: "地球往事：黑暗森林"
+---
 
 在[上一本书](http://book.douban.com/subject/2567698/)中，作者以「飞刃」切割「审判日号」为高潮，以三体世界和质子的真相大白为结尾，想必在第二部中，一场大战势在难免。
 
@@ -47,3 +48,4 @@ summary = "在上一本书中，作者以「飞刃」切割「审判日号」为
 最喜欢的角色是章北海，人生赢家，小诸葛，真男人。吃核弹前的淡定更是魅力四射。
 
 下周准备读第三部：[《地球往事：死神永生》](http://book.douban.com/subject/5363767/)
+

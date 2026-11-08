@@ -1,11 +1,10 @@
-+++
-
-categories = "Photography"
-date = "2023-04-30T12:00:00+00:00"
-summary = "在硅谷天文台拍摄星空日转夜延时的一些感想。本文不是拍摄教程，不谈拍摄技术。"
-title = "硅谷之夜——里克天文台银河摄影笔记"
-
-+++
+---
+title: "硅谷之夜——里克天文台银河摄影笔记"
+date: "2023-04-30T00:00:00-08:00"
+categories: "Photography"
+summary: "在硅谷天文台拍摄星空日转夜延时的一些感想。本文不是拍摄教程，不谈拍摄技术。"
+draft: false
+---
 
 把博客接入 Notion 之后，在手机上利用碎片时间写作的机会多了起来，于是开始渐渐补完过去几年存下的文章草稿。这篇文章是我一直想发表的一篇，写于二〇二一年七月，发表于二〇二三年四月。以下是正文：
 
@@ -59,8 +58,6 @@ title = "硅谷之夜——里克天文台银河摄影笔记"
 
 这一刻，我觉得自己无比渺小，有一种收拾细软上车回家的冲动。昨天的此时，我本打算去海边的 Pigeon Point Lighthouse 拍摄星空，可惜那里乌云密布，只能打道回府，略带遗憾地窝在沙发上玩 PS5。现在，我才意识到昨天的回忆是多么温馨舒适。我对自己说：老老实实回家，在虚拟世界冒险不好吗？
 
-
-
 ![IMAGE](https://live.staticflickr.com/65535/52863092797_9c917f4604_o.jpg)
 
 *（来源：boredpanda.com）*
@@ -89,15 +86,7 @@ title = "硅谷之夜——里克天文台银河摄影笔记"
 
 （哈雷阿卡拉火山的日出，03/19/2018 06:22AM，iPhone 6S）
 
-
-
 我已不记得那一天是最终如何结束的。或许在下一次冒险时，这些回忆，连同那些我此刻写作时已忘却的，都会被重新唤起。
 
-
-
 <iframe style="position: relative; width: 100%;" height="360" src="https://www.youtube.com/embed/Y907qjrWP_w" title="YouTube video player" frameborder="0" allow="clipboard-write; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-
-
 

@@ -1,10 +1,8 @@
 ---
-title: 尝试在 GitHub 上部署个人主页，与 Jekyll 误操作的惨痛教训
-slug: deploy-web-on-github-and-jekyll-mis-op
-date: 2015-06-15T00:00:00-08:00
-categories: Diary
-summary: 今天，出于机缘巧合，受到 gaocegege 启发，我使用 Jekyll 建立了个人的主页，并托管到了 GitHub 上。在此之前，我一直觉得
-  WordPress 是个人博客的标配，希望在暑假用它在 VPS 上进行部署。感谢策哥哥让我免于跳进这个坑。
+title: "尝试在 GitHub 上部署个人主页，与 Jekyll 误操作的惨痛教训"
+date: "2015-06-15T00:00:00-08:00"
+categories: "Diary"
+summary: "今天，出于机缘巧合，受到 gaocegege 启发，我使用 Jekyll 建立了个人的主页，并托管到了 GitHub 上。在此之前，我一直觉得 WordPress 是个人博客的标配，希望在暑假用它在 VPS 上进行部署。感谢策哥哥让我免于跳进这个坑。"
 draft: false
 ---
 

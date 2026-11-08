@@ -1,22 +1,18 @@
 ---
 title: "Hugo, GitHub, VPS (2): Write a Hook Listener and Protect It Using Supervisor"
-slug: hugo-github-vps-2
-date: 2016-01-29T00:00:00-08:00
-categories: Tech
-summary: "The article will talk about the first part mentioned in Hugo, GitHub,
-  VPS (1): A Work Flow for static sites."
+date: "2016-01-29T00:00:00-08:00"
+categories: "Tech"
+summary: "The article will talk about the first part mentioned in Hugo, GitHub, VPS (1): A Work Flow for static sites."
 draft: false
 ---
 
 The article will talk about the first part mentioned in [*Hugo, GitHub, VPS (1): A Work Flow for static sites*](https://blog.hgao.net/post/hugo-github-vps-1/).
-
 
 ## Create GitHub webhooks
 
 GitHub has an [official tutorial](https://developer.github.com/webhooks/) for webhooks, you can follow it and create one easily. The tutorial sets the payload URL to `http://localhost:4567/payload`, but since my hook is deployed on the VPS, I just fill in `http://my.domain:18001`. The port `:4567` and the subfolder `payload` doesn't matter. That's where the *POST* request is sent, and you just need to match it with the port and location of your hook. I preserve the whole `:18001` port for the hook, so I let the request sent to the root path directly.
 
 The content type is `application/json`, and we only trigger the hook for push events.
-
 
 ## Write a hook listener
 
@@ -121,7 +117,6 @@ if __name__ == "__main__":
 
 ```
 
-
 ## Protect the listener process
 
 In order to let our listener process run consistently in background and reboot after crash, we use [Supervisor](http://supervisord.org/) as a daemon program. Besides, it can manage multiple subprocesses of a tornado app and balance the load with the help of [nginx](http://nginx.org/), but it's unnecessary for a simple hook.
@@ -136,7 +131,6 @@ stdout_logfile=/path/to/log.log
 ```
 
 Then, run `supervisorctl reload` to check if `mylistener` has been started.
-
 
 ## Host the blog
 

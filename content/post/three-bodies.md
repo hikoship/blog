@@ -1,15 +1,15 @@
-+++
-categories = "Reading"
-date = "2015-07-09T00:00:00Z"
-title = "读完了《地球往事：三体》"
-collection = "Books"
-name = "地球往事：三体"
-author = "刘慈欣"
-translator = ""
-link = "http://book.douban.com/subject/2567698/"
-rate = 4
-summary = "《三体》是一个由刘慈欣创作的科幻小说系列，可以说是我最近一直想要读的书。但是这个学期比较忙，一直没有机会，直到上周考完最后一门试，才在 Kindle 商店买下电子版。"
-+++
+---
+title: "读完了《地球往事：三体》"
+date: "2015-07-09T00:00:00-08:00"
+categories: "Reading"
+summary: "《三体》是一个由刘慈欣创作的科幻小说系列，可以说是我最近一直想要读的书。但是这个学期比较忙，一直没有机会，直到上周考完最后一门试，才在 Kindle 商店买下电子版。"
+draft: false
+collection: "Books"
+author: "刘慈欣"
+rate: 4
+link: "http://book.douban.com/subject/2567698/"
+name: "地球往事：三体"
+---
 
 《三体》是一个由刘慈欣创作的科幻小说系列，可以说是我最近一直想要读的书。但是这个学期比较忙，一直没有机会，直到上周考完最后一门试，才在 Kindle 商店买下电子版。
 
@@ -28,3 +28,4 @@ summary = "《三体》是一个由刘慈欣创作的科幻小说系列，可以
 总体来说，是一本让人欲罢不能、投入其中，但看完后没有什么回味和感觉的书。
 
 目前正在读第二部——《[地球往事：黑暗森林](http://book.douban.com/subject/3066477/)》。
+

@@ -1,11 +1,10 @@
-+++
-
-categories = "ACG"
-date = "2016-06-17T19:30:46+08:00"
-summary = "整个流程花了四五天，打穿主线之后，又找到了六位贤者，捉了几只定点高等级宝可梦，击败了二周目的四大天王和冠军。原本准备继续打战斗地铁，但后来实在是无心选种练级，于是攻略也就此告一段落。"
-title = "《精灵宝可梦：白》通关感受"
-
-+++
+---
+title: "《精灵宝可梦：白》通关感受"
+date: "2016-06-17T00:00:00-08:00"
+categories: "ACG"
+summary: "整个流程花了四五天，打穿主线之后，又找到了六位贤者，捉了几只定点高等级宝可梦，击败了二周目的四大天王和冠军。原本准备继续打战斗地铁，但后来实在是无心选种练级，于是攻略也就此告一段落。"
+draft: false
+---
 
 hello
 
@@ -19,11 +18,11 @@ hello
 
 本作中的画面素质让我有些惊喜。一改以往方方正正的视角，采用了立体画面，并在一些场景中使用了变换的视角以及斜向的移动。大地图上人物开始有了动作，飞云市还出现了来来往往的路人。尽管画面效果从来不是《精灵宝可梦》的主旋律（甚至不是任天堂平台游戏的主旋律），但好的画面还是更能让人享受这个虚拟世界。毕竟《精灵宝可梦》也算是一款可以让玩家在其中慢慢发现、细细品味的游戏。
 
-<img align="center" class="img-responsive" src="https://ik.imagekit.io/hikoship/blog/pokemon-white-clear/pokemon-white-clear_1.png?updatedAt=1761359987627" alt="不同视角的吊桥 1（需翻墙）">
+![不同视角的吊桥 1（需翻墙）](https://ik.imagekit.io/hikoship/blog/pokemon-white-clear/pokemon-white-clear_1.png?updatedAt=1761359987627)
 
-<img align="center" class="img-responsive" src="https://ik.imagekit.io/hikoship/blog/pokemon-white-clear/pokemon-white-clear_2.png?updatedAt=1761359987623" alt="不同视角的吊桥 2（需翻墙）">
+![不同视角的吊桥 2（需翻墙）](https://ik.imagekit.io/hikoship/blog/pokemon-white-clear/pokemon-white-clear_2.png?updatedAt=1761359987623)
 
-<img align="center" class="img-responsive" src="https://ik.imagekit.io/hikoship/blog/pokemon-white-clear/pokemon-white-clear_3.png?updatedAt=1761359987617" alt="飞云市的环形道路（需翻墙）">
+![飞云市的环形道路（需翻墙）](https://ik.imagekit.io/hikoship/blog/pokemon-white-clear/pokemon-white-clear_3.png?updatedAt=1761359987617)
 
 ### 流程
 
@@ -68,3 +67,4 @@ hello
 我写这些，可以为自己的作弊行为洗白，但这不是我的目的。我希望《精灵宝可梦》从根本上变得更加完善。目前有了很多第三方的对战工具，玩家可以自己设置宝可梦的各种属性。如果这一功能被移植到官方游戏中，生蛋选种的问题将得到缓解。然而这势必会让游戏中战斗塔的难度大打折扣。如果提升 NPC 宝可梦的能力，又会让很多低能力的宝可梦失去出场的机会。另一方面，掌机游戏原本就是利用人们的零碎时间，这种情况下能够通过生蛋打发时间可能不再是负担，而是变成一种消遣手段。这可能是《精灵宝可梦》真正的目标玩家。
 
 或许有一天，我也将成为这样的玩家。
+

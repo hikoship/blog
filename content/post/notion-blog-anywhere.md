@@ -1,11 +1,10 @@
-+++
-
-categories = "Tech"
-date = "2021-01-27T12:00:00+00:00"
-summary = "这篇文章将介绍如何自动地将 Notion 中的文章导出成 Markdown，并部署到自己搭建的静态博客上。"
-title = "使用 Notion 随时随地写博客"
-
-+++
+---
+title: "使用 Notion 随时随地写博客"
+date: "2021-01-27T00:00:00-08:00"
+categories: "Tech"
+summary: "这篇文章将介绍如何自动地将 Notion 中的文章导出成 Markdown，并部署到自己搭建的静态博客上。"
+draft: false
+---
 
 ![IMAGE](https://live.staticflickr.com/65535/52767786944_e6ab7435ae_o.jpg)
 
@@ -23,9 +22,9 @@ title = "使用 Notion 随时随地写博客"
 
 ## 需要用到的东西
 
-* 一个 Notion 账户（免费账户即可）
-* 一个使用 Markdown 的静态博客（如 Hugo，Hexo，Jekyll）
-* 一个能运行 Python 脚本，并且能访问 Notion 的服务器。
+- 一个 Notion 账户（免费账户即可）
+- 一个使用 Markdown 的静态博客（如 Hugo，Hexo，Jekyll）
+- 一个能运行 Python 脚本，并且能访问 Notion 的服务器。
 
 ## 在 Notion 中写作
 
@@ -47,16 +46,10 @@ title = "使用 Notion 随时随地写博客"
 
 ## 缺点和风险
 
-* 据说 Notion 无法从中国大陆访问，所以对脚本所在服务器有要求。
-* 无法预览文章在博客上的显示效果。
-* 脚本需要主动查询文章改动，所以时效性和节省带宽只能二者择一。目前还没有研究 API 如何监听 Notion 改动。
-* 在 Notion 中直接插入的图片可以在博客显示，但会压缩，并且 URL 只有一天内有效。每次生成 markdown 都会更新图片的 URL，导致 `diff` 命令失去意义。
-* API 不受官方支持，况且不知道 Notion 自己能存活多久。
-* 不支持 Vim 模式。
-
-
-
-
-
-
+- 据说 Notion 无法从中国大陆访问，所以对脚本所在服务器有要求。
+- 无法预览文章在博客上的显示效果。
+- 脚本需要主动查询文章改动，所以时效性和节省带宽只能二者择一。目前还没有研究 API 如何监听 Notion 改动。
+- 在 Notion 中直接插入的图片可以在博客显示，但会压缩，并且 URL 只有一天内有效。每次生成 markdown 都会更新图片的 URL，导致 `diff` 命令失去意义。
+- API 不受官方支持，况且不知道 Notion 自己能存活多久。
+- 不支持 Vim 模式。
 

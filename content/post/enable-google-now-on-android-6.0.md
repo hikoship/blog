@@ -1,9 +1,8 @@
 ---
-title: 在 Android 6.0 Marshmallow 上开启 Google Now
-slug: enable-google-now-on-android-6.0
-date: 2015-10-06T00:00:00-08:00
-categories: Tech
-summary: 总体步骤和之前 5.1 类似，只是有些选项的位置发生了改变，需要稍加寻找。Nexus 5 刷原厂镜像（MRA58K）测试通过。
+title: "在 Android 6.0 Marshmallow 上开启 Google Now"
+date: "2015-10-06T00:00:00-08:00"
+categories: "Tech"
+summary: "总体步骤和之前 5.1 类似，只是有些选项的位置发生了改变，需要稍加寻找。Nexus 5 刷原厂镜像（MRA58K）测试通过。"
 draft: false
 ---
 
@@ -18,7 +17,6 @@ draft: false
 > @lonelinsky 5.0 时候发现的， 6.0 是否还适用不得而知，手机上登陆两个 google 账号，开启 google now 之后退出重新登录任意一个，两个账号就都能用 play 了。
 
 感谢二位。
-
 
 ---
 

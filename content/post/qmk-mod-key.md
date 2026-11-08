@@ -1,10 +1,8 @@
 ---
-title: An Optimization of QMK Mod-tap (Layer-tap) for Fast Typists
-slug: qmk-mod-key
-date: 2019-05-22T00:00:00-08:00
-categories: Tech
-summary: The default mod-tap feature of QMK doesn't support fast typing well. In
-  this post I wrote a customized function to optimize its performance.
+title: "An Optimization of QMK Mod-tap (Layer-tap) for Fast Typists"
+date: "2019-05-22T00:00:00-08:00"
+categories: "Tech"
+summary: "The default mod-tap feature of QMK doesn't support fast typing well. In this post I wrote a customized function to optimize its performance."
 draft: false
 ---
 

@@ -1,15 +1,14 @@
-+++
-
-categories = "Sports"
-date = "2016-07-06T10:37:56+08:00"
-summary = "写这篇博客的起因是图书馆没有网，只能自己闷头创作。既然闷头创作，文中很多画面和细节依靠脑补。测试一下哪些记忆历久弥新，哪些记忆化作碎片，我觉得这比写一部「正史」更有意思，可以当小说来看。"
-title = "德国世界杯十周年回忆录"
-
-+++
+---
+title: "德国世界杯十周年回忆录"
+date: "2016-07-06T00:00:00-08:00"
+categories: "Sports"
+summary: "写这篇博客的起因是图书馆没有网，只能自己闷头创作。既然闷头创作，文中很多画面和细节依靠脑补。测试一下哪些记忆历久弥新，哪些记忆化作碎片，我觉得这比写一部「正史」更有意思，可以当小说来看。"
+draft: false
+---
 
 （背景音乐系二〇〇六德国世界杯主题曲）
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4aOxDHqWyK0?si=nwySKWISPmig4U0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe style="position: relative; width: 100%;" height="360" src="https://www.youtube.com/embed/4aOxDHqWyK0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 二〇〇六年的德国世界杯，群星璀璨，精彩纷呈，留下了众多至今仍被人津津乐道的经典画面。那是我第一次全程关注世界杯的比赛。不同于韩日世界杯和葡萄牙欧洲杯的耳濡目染，我不仅看了新闻，还第一次半夜起来看直播。
 
@@ -122,6 +121,7 @@ H 组，彼时的西班牙还背负着「预选赛之王」这一颇具讽刺意
 此后的比赛，双方均无建树，进入加时。三十四岁的齐达内完全复苏，优雅地跳着世界第一中场大师的专属舞步。他一记近在咫尺的有力头球，被布冯以极快的反应托出横梁，便是这场决胜交锋最好的注脚。
 
 ![齐达内头球](https://ik.imagekit.io/hikoship/blog/2006-world-cup-memory/wc2006-header1.jpg)
+
 ![布冯救险](https://ik.imagekit.io/hikoship/blog/2006-world-cup-memory/wc2006-header2.jpg)
 
 毫无征兆地，伴随着全场观众的一阵惊呼，镜头切换给马特拉齐——他倒在地上。布冯、特雷泽盖等人都围了过来。空气似乎凝固了许久，电视机前才闪过代表「2006」的四个笑脸，那是本届世界杯的会徽，意味着即将播送回放。
@@ -176,3 +176,4 @@ H 组，彼时的西班牙还背负着「预选赛之王」这一颇具讽刺意
 
 [^fn1]: 《The Pilots' Theme》。
 [^fn2]: 最早是刘嘉远老师在解说中引用。
+
