@@ -46,7 +46,7 @@ sdi234mv@gmail.com 和 jn02mb@gmail.com，显然不存在任何联系，耶！�
 ## 安全性分析
 下图展示了一位使用密码管理器的用户的安全分析。
 
-<img align="center" class="img-responsive" src="/images/post/security_analysis.svg" alt="安全性分析图">
+![安全性分析图](https://ik.imagekit.io/hikoship/blog/a-solution-to-online-security/security_analysis.svg)
 
 在开启了两步验证、以及各个网站使用不同密码后，我们的威胁主要来自三个方面：
 

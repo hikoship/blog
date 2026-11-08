@@ -22,7 +22,7 @@ title = "我的手机图鉴"
 
 ### 摩托罗拉 E360（约二〇〇六下半年 至 二〇〇七年五月）
 
-![摩托罗拉 E360](/images/post/cellphone/moto-e360.jpg)
+![摩托罗拉 E360](https://ik.imagekit.io/hikoship/blog/my-cellphones/moto-e360.jpg)
 
 之前提到老爸淘汰了一部备用机，便是这摩托罗拉 E360。这是我们全家的第一部手机，大概是老爸在〇二、〇三年购买的。有意思的是，我不仅记得它的型号，还记得当时的价格是一千六百八十元（题外话：一段时间后我在手机店里看到了它，价格变成了八百八十元）。
 
@@ -34,7 +34,7 @@ title = "我的手机图鉴"
 
 ### 诺基亚 3230（二〇〇七年五月 至 约二〇〇九上半年）
 
-![诺基亚 3230](/images/post/cellphone/nokia-3230.jpg)
+![诺基亚 3230](https://ik.imagekit.io/hikoship/blog/my-cellphones/nokia-3230.jpg)
 
 话说两朝老臣 E360 一直兢兢业业，虽说无功但也无过，对于一个中学生来说，还能有什么苛求呢？然而出于一些我不记得的原因，爸妈还是同意在二〇〇七年的五一长假，带我去牡丹江路换一部新手机。琳琅满目的柜台中，我一眼就看到了造型独特的诺基亚 3230。
 
@@ -56,7 +56,7 @@ title = "我的手机图鉴"
 
 ### 诺基亚 E50（约二〇〇九上半年 至 二〇一〇年四月）
 
-![诺基亚 E50](/images/post/cellphone/nokia-e50.jpg)
+![诺基亚 E50](https://ik.imagekit.io/hikoship/blog/my-cellphones/nokia-e50.jpg)
 
 这部诺基亚 E50 是老爸公司配发的手机，然而用了一阵之后，老爸显然不能体会到智能手机的魅力，换回了他之前的诺基亚 6270。于是，失宠的 E50 只能轮到我来疼爱了。
 
@@ -74,7 +74,7 @@ E50 采用 S60 V3 操作系统，虽然屏幕尺寸比 3230 小，但是分辨�
 
 ### 诺基亚 5233（二〇一〇年四月 至 二〇一三年一月）
 
-![诺基亚 5233](/images/post/cellphone/nokia-5233.jpg)
+![诺基亚 5233](https://ik.imagekit.io/hikoship/blog/my-cellphones/nokia-5233.jpg)
 
 历史的车轮滚滚向前。塞班系统虽然普及，但随着苹果和 Android 阵营的发力，中高端市场已经被全触屏手机所占据。作为应对，诺基亚发布了搭载 S60 V5 触屏专用系统的 N97、5800XM、5530XM、5230、5233。虽然价格上拉开了很大差距，但它们的 CPU、内存、分辨率却完全相同（5530XM 作为其中的次高端手机，屏幕竟然比低端 5230、5233 还小，不能理解）。5230 比 5233 多了 3G 网络，对我也没多大用处，于是我自然选择了其中最便宜、一千块出头的 5233。
 
@@ -94,7 +94,7 @@ E50 采用 S60 V3 操作系统，虽然屏幕尺寸比 3230 小，但是分辨�
 
 ### 索尼 Xperia Acro S（LT26W，二〇一三年一月 至 二〇一四年九月）
 
-![索尼 Xperia Acro S (LT26W)](/images/post/cellphone/sony-lt26w.jpg)
+![索尼 Xperia Acro S (LT26W)](https://ik.imagekit.io/hikoship/blog/my-cellphones/sony-lt26w.jpg)
 
 Acro S 是我的第一部 Android 手机，也是第一部水货手机。二〇一三年的寒假，我在上海火车站不夜城，从 Jack（我的高中同桌，全班第一位 Android 用户）推荐的店里带回了它，价格是两千两百八十元。作为索尼上一代主力机型 Xperia S (LT26i) 的防水版，算是两千元档性价比不错的选择。它的性能与 5233 不可同日而语，GBA 游戏八倍速运行毫无压力。更直观的性能反映是，它可以使用 NDS 模拟器了！虽然模拟速度不快，但足以让我体验无穷丰富的 NDS 游戏资源。
 
@@ -110,7 +110,7 @@ Acro S 后来被我拆了一下，又装回去（了一部分），现在安然�
 
 ### LG Nexus 5（二〇一四年九月 至今）
 
-![LG Nexus 5](/images/post/cellphone/lg-nexus5.jpg)
+![LG Nexus 5](https://ik.imagekit.io/hikoship/blog/my-cellphones/lg-nexus5.jpg)
 
 自从被 Jack 安利了 Nexus 系列之后，我心里就一直对「原生」有所牵挂。5233 退役时，曾试过海淘性价比超群的 Nexus 4，但因为供不应求而作罢；等到 Acro S 需要接班人的时候，我不再犹豫，毅然买下发布十个月之久、价格依旧坚挺的 Nexus 5。
 

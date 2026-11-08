@@ -7,7 +7,7 @@ title = "也说《大鱼海棠》"
 
 +++
 
-<img align="center" class="img-responsive" src="/images/post/bigfish-begonia.jpg" alt="《大鱼海棠》海报">
+![《大鱼海棠》海报](https://ik.imagekit.io/hikoship/blog/bigfish-begonia/bigfish-begonia.jpg)
 
 七月八日，电影上映的当天，朋友圈里到处都是观影体验，那是我头一回听说「大鱼海棠」这个名字；现在，我已经看了两遍——第一次在电影院把一部电影看两次。
 

@@ -71,4 +71,4 @@ title = "在美国驻上海总领事馆进行 F-1 学生签证面谈的经过"
 
 五月十八日收到邮件，护照已送至中信银行莘庄分行（闵行区莘建路158、160、162号），随时可取。
 
-[^fn1]: 第二天（周五）中午查看状态为「Administrative Processing」，下午两点变为「Issued」。<img align="center" class="img-responsive" src="/images/post/visa-f1-issued.png" alt="签证状态">
+[^fn1]: 第二天（周五）中午查看状态为「Administrative Processing」，下午两点变为「Issued」。![签证状态](https://ik.imagekit.io/hikoship/blog/visa-interview-2016/visa-f1-issued.png)

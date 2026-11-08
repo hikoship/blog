@@ -8,8 +8,8 @@ title = "《精灵宝可梦》二十周年与中文化"
 
 二〇一六年，距离《精灵宝可梦》的初作已经过去整整二十年。为此，宝可梦公司举办了一系列庆祝活动。宝可梦训练师可以在时代广场看到皮卡丘的舞蹈，在庆祝会上品尝宝可梦甜点，在 Twitch 观看对战直播，在自己的 3DS 上领取配信纪念的雪拉比。
 
-<img align="center" class="img-responsive" src="/images/post/pikachu-time-square.jpg" alt="时代广场的皮卡丘">
-<img align="center" class="img-responsive" src="/images/post/pokemon20-snack.jpg" alt="纪念日的甜点">
+![时代广场的皮卡丘](https://ik.imagekit.io/hikoship/blog/pokemon-20-anniversary-and-chinese-version/pikachu-time-square.jpg)
+![纪念日的甜点](https://ik.imagekit.io/hikoship/blog/pokemon-20-anniversary-and-chinese-version/pokemon20-snack.jpg)
 
 这一切虽与我无缘，却也让我为之高兴。
 
