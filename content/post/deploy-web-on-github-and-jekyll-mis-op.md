@@ -1,11 +1,14 @@
-+++
-categories = "Diary"
-date = "2015-06-15T00:00:00Z"
-title = "尝试在 GitHub 上部署个人主页，与 Jekyll 误操作的惨痛教训"
-summary = "今天，出于机缘巧合，受到 gaocegege 启发，我使用 Jekyll 建立了个人的主页，并托管到了 GitHub 上。在此之前，我一直觉得 WordPress 是个人博客的标配，希望在暑假用它在 VPS 上进行部署。感谢策哥哥让我免于跳进这个坑。"
-+++
+---
+title: 尝试在 GitHub 上部署个人主页，与 Jekyll 误操作的惨痛教训
+slug: deploy-web-on-github-and-jekyll-mis-op
+date: 2015-06-15T00:00:00-08:00
+categories: Diary
+summary: 今天，出于机缘巧合，受到 gaocegege 启发，我使用 Jekyll 建立了个人的主页，并托管到了 GitHub 上。在此之前，我一直觉得
+  WordPress 是个人博客的标配，希望在暑假用它在 VPS 上进行部署。感谢策哥哥让我免于跳进这个坑。
+draft: false
+---
 
-今天，出于机缘巧合，受到 [gaocegege](http://gaocegege.com) 启发，我使用 [Jekyll](http://jekyllrb.com/) 建立了个人的主页，并托管到了 GitHub 上。在此之前，我一直觉得 WordPress 是个人博客的标配，希望在暑假用它在 VPS 上进行部署。感谢策哥哥让我免于跳进这个坑。
+今天，出于机缘巧合，受到 [gaocegege](http://gaocegege.com/) 启发，我使用 [Jekyll](http://jekyllrb.com/) 建立了个人的主页，并托管到了 GitHub 上。在此之前，我一直觉得 WordPress 是个人博客的标配，希望在暑假用它在 VPS 上进行部署。感谢策哥哥让我免于跳进这个坑。
 
 我是什么时候在互联网上开始拥有「个人空间」的呢？二〇〇六年初，也就是小学六年级的寒假，我亲自注册了一个 QQ 号。这是我的第一个网络身份。很久以后，拥有了 QQ 空间和百度空间，便有机会存放或创作一些自己的内容。然而这些都是托管在第三方的。当时并不知道网络运作的原理，也并没有自己建立网站的想法。
 
@@ -26,3 +29,4 @@ summary = "今天，出于机缘巧合，受到 gaocegege 启发，我使用 Jek
 重装虚拟机，尽管是个机械性劳动，不含有个体的人格，可仍是相当不优雅的举动。不管有没有备份，数据都应当珍惜。Google、Dropbox 的数据中心也并非坚不可摧，最安全的保管者，永远都是自己。
 
 第一篇正式的文章，没有干货，似乎没起到一个好头啊。
+
