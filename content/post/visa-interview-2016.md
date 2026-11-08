@@ -1,9 +1,11 @@
-+++
-categories = "Diary"
-date = "2016-05-12T17:43:00+08:00"
-summary = "预约时间是五月十二日下午三点半，地点是上海梅龙镇广场。比较轻松地通过了。"
-title = "在美国驻上海总领事馆进行 F-1 学生签证面谈的经过"
-+++
+---
+title: 在美国驻上海总领事馆进行 F-1 学生签证面谈的经过
+slug: visa-interview-2016
+date: 2016-05-12T00:00:00-08:00
+categories: Diary
+summary: 预约时间是五月十二日下午三点半，地点是上海梅龙镇广场。比较轻松地通过了。
+draft: false
+---
 
 时间：2016 年 5 月 12 日（周四），15 点 30 分
 
@@ -18,36 +20,36 @@ title = "在美国驻上海总领事馆进行 F-1 学生签证面谈的经过"
 面签是站着的，和签证官之间隔着玻璃，其余人在线外等候。我之前以为是类似于《全金属狂潮》中的布置。我们的交流大致如下（「O」指代签证官，「I」指代我）：
 
 > O: Hello!
->
-> I: Good afternoon, sir.（递上护照和 I-20）
->
-> O: How are you today?
->
-> I: I'm fine...
->
-> O: (看 I-20）So you are going to study at USC?
->
-> I: Yeah!
->
-> O: Master's degree?
->
-> I: Yeah, a master's degree.
->
-> O: You live in Shanghai?
->
-> I: ...Pardon?
->
-> O: Where do you live now?
->
-> I: I live in Shanghai.
->
-> O: Who will pay your tuition?
->
-> I: My parents.
->
-> O: ^$!%@#...（没听清，收了护照，还给我 I20）
->
-> I: Thank you! Bye.
+
+  I: Good afternoon, sir.（递上护照和 I-20）
+
+  O: How are you today?
+
+  I: I'm fine...
+
+  O: (看 I-20）So you are going to study at USC?
+
+  I: Yeah!
+
+  O: Master's degree?
+
+  I: Yeah, a master's degree.
+
+  O: You live in Shanghai?
+
+  I: ...Pardon?
+
+  O: Where do you live now?
+
+  I: I live in Shanghai.
+
+  O: Who will pay your tuition?
+
+  I: My parents.
+
+  O: ^$!%@#...（没听清，收了护照，还给我 I20）
+
+  I: Thank you! Bye.
 
 面谈有点紧张，从上面的回答也能看出。听力糟糕以至于没听清楚签证官的最后一句话。应该是通过了吧，反正只收了我的护照。[^fn1]
 
@@ -59,11 +61,11 @@ title = "在美国驻上海总领事馆进行 F-1 学生签证面谈的经过"
 
 签证过程中参考了以下一些文章，感谢它们的作者：
 
-* [签证准备DS-160填写及付费注意事项](https://www.slyar.com/blog/f1-visa-us-ds-160.html)
-* [新系统F1签证材料 预约流程 前期准备 各种细节](http://www.1point3acres.com/bbs/thread-62769-1-1.html)
-* [我写master course-based study plan的一些总结](http://www.1point3acres.com/bbs/thread-98147-1-1.html)
-* [北京安家楼，F-1签证通过](https://www.slyar.com/blog/beijing-usc-f1-visa-pass.html)
-* [研二，上海梅陇镇广场水过](http://www.1point3acres.com/bbs/thread-186147-1-1.html)
+- [签证准备DS-160填写及付费注意事项](https://www.slyar.com/blog/f1-visa-us-ds-160.html)
+- [新系统F1签证材料 预约流程 前期准备 各种细节](http://www.1point3acres.com/bbs/thread-62769-1-1.html)
+- [我写master course-based study plan的一些总结](http://www.1point3acres.com/bbs/thread-98147-1-1.html)
+- [北京安家楼，F-1签证通过](https://www.slyar.com/blog/beijing-usc-f1-visa-pass.html)
+- [研二，上海梅陇镇广场水过](http://www.1point3acres.com/bbs/thread-186147-1-1.html)
 
 祝大家好运！
 
@@ -71,4 +73,7 @@ title = "在美国驻上海总领事馆进行 F-1 学生签证面谈的经过"
 
 五月十八日收到邮件，护照已送至中信银行莘庄分行（闵行区莘建路158、160、162号），随时可取。
 
-[^fn1]: 第二天（周五）中午查看状态为「Administrative Processing」，下午两点变为「Issued」。![签证状态](https://ik.imagekit.io/hikoship/blog/visa-interview-2016/visa-f1-issued.png)
+[^fn1]: 第二天（周五）中午查看状态为「Administrative Processing」，下午两点变为「Issued」。
+
+![IMAGE](https://ik.imagekit.io/hikoship/blog/visa-interview-2016/visa-f1-issued.png)
+
