@@ -3,8 +3,6 @@ title: "Recent Changes of The Great Garage 1"
 date: "2016-01-15T00:00:00-08:00"
 categories: "Log"
 summary: "I made a personal page for myself and put it under the root of hgao.net. I have considered to move the blog under blog.hgao.net, but it seems that I'll lose all my links and comments (though only a few at all)."
-tags:
-  - "The Great Garage"
 draft: false
 ---
 

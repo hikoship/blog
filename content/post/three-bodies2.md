@@ -4,11 +4,6 @@ date: "2015-07-12T00:00:00-08:00"
 categories: "Reading"
 summary: "在上一本书中，作者以「飞刃」切割「审判日号」为高潮，以三体世界和质子的真相大白为结尾，想必在第二部中，一场大战势在难免。"
 draft: false
-collection: "Books"
-author: "刘慈欣"
-rate: 4
-link: "http://book.douban.com/subject/3066477/"
-name: "地球往事：黑暗森林"
 ---
 
 在[上一本书](http://book.douban.com/subject/2567698/)中，作者以「飞刃」切割「审判日号」为高潮，以三体世界和质子的真相大白为结尾，想必在第二部中，一场大战势在难免。

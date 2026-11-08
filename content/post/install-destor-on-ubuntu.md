@@ -3,8 +3,6 @@ title: "Install Destor on Ubuntu 14.04"
 date: "2015-10-11T00:00:00-08:00"
 categories: "Tech"
 summary: "Destor is a platform for data deduplication evaluation developed by Min Fu."
-tags:
-  - "Deduplication Linux Ubuntu"
 draft: false
 ---
 

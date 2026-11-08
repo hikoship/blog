@@ -4,11 +4,6 @@ date: "2015-07-09T00:00:00-08:00"
 categories: "Reading"
 summary: "《三体》是一个由刘慈欣创作的科幻小说系列，可以说是我最近一直想要读的书。但是这个学期比较忙，一直没有机会，直到上周考完最后一门试，才在 Kindle 商店买下电子版。"
 draft: false
-collection: "Books"
-author: "刘慈欣"
-rate: 4
-link: "http://book.douban.com/subject/2567698/"
-name: "地球往事：三体"
 ---
 
 《三体》是一个由刘慈欣创作的科幻小说系列，可以说是我最近一直想要读的书。但是这个学期比较忙，一直没有机会，直到上周考完最后一门试，才在 Kindle 商店买下电子版。
