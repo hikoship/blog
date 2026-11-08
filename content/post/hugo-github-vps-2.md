@@ -1,11 +1,15 @@
-+++
-categories = "Tech"
-date = "2016-01-29T11:53:01+08:00"
-title = "Hugo, GitHub, VPS (2): Write a Hook Listener and Protect It Using Supervisor"
-summary = "The article will talk about the first part mentioned in Hugo, GitHub, VPS (1): A Work Flow for static sites."
-+++
+---
+title: "Hugo, GitHub, VPS (2): Write a Hook Listener and Protect It Using Supervisor"
+slug: hugo-github-vps-2
+date: 2016-01-29T00:00:00-08:00
+categories: Tech
+summary: "The article will talk about the first part mentioned in Hugo, GitHub,
+  VPS (1): A Work Flow for static sites."
+draft: false
+---
 
-The article will talk about the first part mentioned in *[Hugo, GitHub, VPS (1): A Work Flow for static sites](/post/hugo-github-vps-1/)*.
+The article will talk about the first part mentioned in [*Hugo, GitHub, VPS (1): A Work Flow for static sites*](https://blog.hgao.net/post/hugo-github-vps-1/).
+
 
 ## Create GitHub webhooks
 
@@ -13,13 +17,14 @@ GitHub has an [official tutorial](https://developer.github.com/webhooks/) for we
 
 The content type is `application/json`, and we only trigger the hook for push events.
 
+
 ## Write a hook listener
 
-The tutorial offers a sample listener app written in [Sinatra](http://www.sinatrarb.com), which is a Ruby micro-framework. Unfortunately, I know little about Ruby as well as Sinatra, so I choose to use [Tornado](http://www.tornadoweb.org), a Python framework.
+The tutorial offers a sample listener app written in [Sinatra](http://www.sinatrarb.com/), which is a Ruby micro-framework. Unfortunately, I know little about Ruby as well as Sinatra, so I choose to use [Tornado](http://www.tornadoweb.org/), a Python framework.
 
 There is a ["Hello, world" example](http://www.tornadoweb.org/en/stable/#hello-world) in Tornado's documents. It has a `get` method in `MainHandler`, and what we want is a `post` method. So delete `get` and write a `post`:
 
-{{< highlight python "linenos=inline">}}
+```python
 import sys, subprocess
 
 class MainHandler(tornado.web.RequestHandler):
@@ -29,7 +34,7 @@ class MainHandler(tornado.web.RequestHandler):
         subprocess.call([sys.path[0] + "/generate.sh"])
 
 
-{{< / highlight >}}
+```
 
 Now, you can run the app and push something to your blog for which a hook has been set, and the terminal will show `New POST Received.`. Then, it executes a shell script called `generate.sh`, which is located in the same folder as the tornado python file. Since we want our VPS to pull down the new source codes immediately and regenerate the static site, so we embed these operations in the script file and make it look like this:
 
@@ -50,7 +55,7 @@ chmod +x generate.sh
 
 Next, we judge whether the *POST* request is from our GitHub repository. Perhaps the hook is listening to several updates from different users, branches and repos, so let's parse the *json* file and read its information.
 
-{{< highlight python "linenos=inline">}}
+```python
 import json
 import sys, subprocess
 
@@ -75,11 +80,11 @@ class MainHandler(tornado.web.RequestHandler):
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     // Your configuration
 }
-{{< / highlight >}}
+```
 
 Finally, we add logging module and filter IP addresses outside GitHub to prevent potentially harmful pseudo *POST* requests. Luckily, GitHub has [a whitelist](https://help.github.com/articles/what-ip-addresses-does-github-use-that-i-should-whitelist/), so we only allow addresses from `192.30.252/22`. Now we've got the whole program:
 
-{{< highlight python "linenos=inline">}}
+```python
 import tornado.ioloop, tornado.web
 import json
 import os, sys, logging, subprocess
@@ -114,7 +119,8 @@ if __name__ == "__main__":
     app.listen(18001) # match your payload URL
     tornado.ioloop.IOLoop.current().start()
 
-{{< / highlight >}}
+```
+
 
 ## Protect the listener process
 
@@ -131,8 +137,10 @@ stdout_logfile=/path/to/log.log
 
 Then, run `supervisorctl reload` to check if `mylistener` has been started.
 
+
 ## Host the blog
 
 Almost all static site generators have their internal server, but you can also use more dedicated web servers such as Apache or nginx for advanced performance and stability, just setting the host path to your output folder in the configuration file.
 
 We are done! Now try pushing something on GitHub, and you should see changes on your VPS.
+
