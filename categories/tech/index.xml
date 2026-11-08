@@ -349,7 +349,7 @@ cd [DIR_OF_DESTOR]
 automake --add-missing
 make
 sudo make install
-&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>在 Android 6.0 Marshmallow 上开启 Google Now</title><link>https://blog.hgao.net/post/enable-google-now-on-android-6.0/</link><pubDate>Tue, 06 Oct 2015 +0000</pubDate><guid>https://blog.hgao.net/post/enable-google-now-on-android-6.0/</guid><description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>在 Android 6.0 Marshmallow 上开启 Google Now</title><link>https://blog.hgao.net/post/enable-google-now-on-android-6.0/</link><pubDate>Tue, 06 Oct 2015 -0800</pubDate><guid>https://blog.hgao.net/post/enable-google-now-on-android-6.0/</guid><description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;感谢 &lt;a href="https://disqus.com/by/disqus_6awjvNqfHQ/"&gt;Tiany&lt;/a&gt; 提醒，使用此法将导致 Google Play Store 不能使用。目前我通过登录另一个 Google 帐号解决该问题，参考了 &lt;a href="https://disqus.com/by/chammaxium/"&gt;Cham Maxium&lt;/a&gt; 的方法：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;在 Account 里删除原有 Google 账号，再重新登入后，方可解决该问题。&lt;/p&gt;&lt;/blockquote&gt;
@@ -362,7 +362,7 @@ sudo make install
 &lt;ol&gt;
 &lt;li&gt;更改系统语言为英语；&lt;/li&gt;
 &lt;li&gt;关闭 &lt;code&gt;Location&lt;/code&gt;，开启飞行模式，打开 Wi-Fi；&lt;/li&gt;
-&lt;li&gt;进入 &lt;code&gt;Settings -&amp;gt; Apps&lt;/code&gt;，&lt;strong&gt;点击右上角三个点，选择 &lt;code&gt;Show System&lt;/code&gt;&lt;/strong&gt;；&lt;/li&gt;
+&lt;li&gt;进入 &lt;code&gt;Settings -&amp;gt; Apps&lt;/code&gt;，&lt;strong&gt;点击右上角三个点，选择&lt;/strong&gt; &lt;code&gt;Show System&lt;/code&gt;；&lt;/li&gt;
 &lt;li&gt;在列表中找到 &lt;code&gt;Google App&lt;/code&gt;，点击 &lt;code&gt;Storage&lt;/code&gt;，点击 &lt;code&gt;MANAGE SPACE&lt;/code&gt;，点击&lt;code&gt;CLEAR ALL DATA&lt;/code&gt;；&lt;/li&gt;
 &lt;li&gt;对 &lt;code&gt;Google Play services&lt;/code&gt;、&lt;code&gt;Google Play Store&lt;/code&gt;、&lt;code&gt;Google Services Framework&lt;/code&gt; 进行同样操作；&lt;/li&gt;
 &lt;li&gt;回到&lt;code&gt;Settings&lt;/code&gt;，选择 &lt;code&gt;Google&lt;/code&gt;，点击 &lt;code&gt;Search &amp;amp; Now&lt;/code&gt;，点击 &lt;code&gt;Accounts &amp;amp; privacy&lt;/code&gt;，点击 &lt;code&gt;Google Account&lt;/code&gt;，选择 &lt;code&gt;Sign out&lt;/code&gt;；&lt;/li&gt;
