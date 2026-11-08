@@ -1,9 +1,11 @@
-+++
-categories = "Tech"
-date = "2015-10-06T00:00:00Z"
-title = "在 Android 6.0 Marshmallow 上开启 Google Now"
-summary = "总体步骤和之前 5.1 类似，只是有些选项的位置发生了改变，需要稍加寻找。Nexus 5 刷原厂镜像（MRA58K）测试通过。"
-+++
+---
+title: 在 Android 6.0 Marshmallow 上开启 Google Now
+slug: enable-google-now-on-android-6.0
+date: 2015-10-06T00:00:00-08:00
+categories: Tech
+summary: 总体步骤和之前 5.1 类似，只是有些选项的位置发生了改变，需要稍加寻找。Nexus 5 刷原厂镜像（MRA58K）测试通过。
+draft: false
+---
 
 **Note:**
 
@@ -17,14 +19,16 @@ summary = "总体步骤和之前 5.1 类似，只是有些选项的位置发生�
 
 感谢二位。
 
+
 ---
 
 总体步骤和之前 5.1 类似，只是有些选项的位置发生了改变，需要稍加寻找。Nexus 5 刷原厂镜像（MRA58K）测试通过。
 
 1. 更改系统语言为英语；
 2. 关闭 `Location`，开启飞行模式，打开 Wi-Fi；
-3. 进入 `Settings -> Apps`，**点击右上角三个点，选择 `Show System`**；
+3. 进入 `Settings -> Apps`，**点击右上角三个点，选择** `Show System`；
 4. 在列表中找到 `Google App`，点击 `Storage`，点击 `MANAGE SPACE`，点击`CLEAR ALL DATA`；
 5. 对 `Google Play services`、`Google Play Store`、`Google Services Framework` 进行同样操作；
 6. 回到`Settings`，选择 `Google`，点击 `Search & Now`，点击 `Accounts & privacy`，点击 `Google Account`，选择 `Sign out`；
 7. 回到刚才的界面，再次点击 `Google Account`，选择之前登录过的帐号。
+
