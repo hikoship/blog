@@ -162,12 +162,12 @@
 &lt;ul&gt;
 &lt;li&gt;养了两只猫。感谢生活中有他们。&lt;/li&gt;
 &lt;li&gt;买了两把好椅子。Herman Miller Mitra 2 和Teknion Contessa。后者虽然是二手，牌子也不如前者响亮，但舒服太多，主要在于椅背可以固定在指定的角度。坐过朋友的 Herman Miller Aeron，也很不错，但应该没有固定椅背功能。&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>失眠</title><link>https://blog.hgao.net/post/sleepless/</link><pubDate>Sun, 15 Nov 2020 +0000</pubDate><guid>https://blog.hgao.net/post/sleepless/</guid><description>&lt;p&gt;从四点睡觉一下子改到十二点睡觉很不容易，尤其是在奔向中年的今天。第一天晚上还能因为之前一天缺少睡眠而顺利入睡起床，第二天晚上则是睡了四个小时就醒了。&lt;/p&gt;
+&lt;/ul&gt;</description></item><item><title>失眠</title><link>https://blog.hgao.net/post/sleepless/</link><pubDate>Sun, 15 Nov 2020 -0800</pubDate><guid>https://blog.hgao.net/post/sleepless/</guid><description>&lt;p&gt;从四点睡觉一下子改到十二点睡觉很不容易，尤其是在奔向中年的今天。第一天晚上还能因为之前一天缺少睡眠而顺利入睡起床，第二天晚上则是睡了四个小时就醒了。&lt;/p&gt;
 &lt;p&gt;中间读了小说，听了一向很助眠的哥德堡变奏曲，数了两百多只羊，仍是一分钟都没有睡着过。当然，这期间也曾多次下意识打开那些网页和社交软件，好在每次都适时制止了。现在天亮了，就当是睡了八个小时。起身工作吧。&lt;/p&gt;
 &lt;p&gt;接收信息的渠道太多了，从好多好多年前的求之若渴，到今天的抗拒恐惧逃避。我自然是从信息中收获了太多益处的，但这一步步是如何走到现在这样的呢？或许是已知曾经简单到无聊的生活，再也不可能求得。或许，这些信息也并非我如今厌倦工作的本因。&lt;/p&gt;
 &lt;p&gt;终究也到了一个能够回忆好多好多年前的时候了。今年我的父母年龄恰好是我的两倍了。这句话的潜台词是，他们像我这么大的时候已经生我了。他们最近身体开始有些中老年的小毛病出现，必是羡慕现在年纪的我。&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;月黑風高 彎腰在計程車&lt;/p&gt;
+&lt;p&gt;月黑風高 彎腰在計程車&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;雨點大 不短的路 給蒙蔽&lt;/p&gt;
 &lt;p&gt;我想那司機這樣子 熬夜到天亮 不容易&lt;/p&gt;
 &lt;p&gt;誰知他說 開完車 還要替&lt;/p&gt;
@@ -180,7 +180,7 @@
 &lt;p&gt;想不到為什麼會在這裡 又想去那裡&lt;/p&gt;
 &lt;p&gt;越懂得多越不滿意 越喜歡回憶&lt;/p&gt;
 &lt;p&gt;看到了背影 看不到自己 路牌也都懷疑&lt;/p&gt;
-&lt;p&gt;一直走千萬公里 忘記了目的&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;一直走千萬公里 忘記了目的&lt;/p&gt;
 &lt;p&gt;写完这段话，打开窗户，闻到了久违的混合青草与泥土与露水味道的冬日大清早的凛冽气息。那是美好与活力，鼓舞人心的气息。邻居已经起床了，这是他们日常的生活。&lt;/p&gt;</description></item><item><title>照片处理工作流</title><link>https://blog.hgao.net/post/photo-postprocessing-workflow/</link><pubDate>Sat, 22 Feb 2020 +0000</pubDate><guid>https://blog.hgao.net/post/photo-postprocessing-workflow/</guid><description>&lt;p&gt;从二〇一七年接触摄影开始，自己的摄影知识一直停留在快门、光圈、ISO 而已，照片也只用 JPEG 存储。去年九月，阿炜帮我把相机升级成了索尼 A7III，于是下决心精进一下拍照技术。这期间切身体会到了 RAW 格式之于 JPEG 的优势（尤其在索尼 JPEG 直出并不出众的情况下），并形成了使用 RAW 拍照的习惯。由此也发展出自己的一套以 RAW 为基础的照片工作流。&lt;/p&gt;
 &lt;h3 id="导入"&gt;导入&lt;/h3&gt;
 &lt;p&gt;我用 Lightroom 作为处理工具，所以直接把照片通过电脑读卡器导入到 Lightroom 中。在此之前不进行照片筛选，因为相机自己的显示屏素质平庸，MacBook 的 Finder 预览 RAW 的速度又不尽如人意。&lt;/p&gt;
