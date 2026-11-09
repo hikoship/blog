@@ -39,7 +39,7 @@
 &lt;p&gt;&lt;strong&gt;6. 导出&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;LRT 会把曝光修正写入到单独 metadata 文件中供 LRC 读取，至此 LRT 的使命就完成了。接下来的步骤，个人习惯用 LRC 把照片导出成 TIFF 格式。TIFF 包含了 metadata 的曝光修正，并且支持 16bit 色深。导出时可以选择把文件按序号命名，记得选上。&lt;/p&gt;
 &lt;p&gt;接下来打开免费的 DaVinci Resolve，它能够把数百张命名好的 TIFF 识别成一整段素材。把素材拖进 DaVinci，设置一下分辨率、帧率、画面裁剪，就大功告成了。&lt;/p&gt;
-&lt;p&gt;🌰：2021 年 Maui 的日落。我的第一个延时，时间只有三秒（读起来怪怪的）。光线变化不明显，所以没有调光，只用了 DaVinci 合成视频。&lt;/p&gt;
+&lt;p&gt;🌰：2021 年 Maui 的日落。我的第一个延时，时间只有三秒。光线变化不明显，所以没有调光，只用了 DaVinci 合成视频。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.instagram.com/p/CQj2NG1BwV7/?hl=en"&gt;https://www.instagram.com/p/CQj2NG1BwV7/?hl=en&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;🌰：2021 年湾区某山头的日转夜+银河。头铁没有使用 LRT，而是在 LR 里一张张手搓曝光修正，可以看到入夜时画面有明显闪烁。&lt;/p&gt;
 &lt;iframe style="position: relative; width: 100%;" height="360" src="https://www.youtube.com/embed/Y907qjrWP_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
