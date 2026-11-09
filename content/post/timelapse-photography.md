@@ -83,7 +83,7 @@ LRT 会把曝光修正写入到单独 metadata 文件中供 LRC 读取，至此 
 
 接下来打开免费的 DaVinci Resolve，它能够把数百张命名好的 TIFF 识别成一整段素材。把素材拖进 DaVinci，设置一下分辨率、帧率、画面裁剪，就大功告成了。
 
-🌰：2021 年 Maui 的日落。我的第一个延时，时间只有三秒（读起来怪怪的）。光线变化不明显，所以没有调光，只用了 DaVinci 合成视频。
+🌰：2021 年 Maui 的日落。我的第一个延时，时间只有三秒。光线变化不明显，所以没有调光，只用了 DaVinci 合成视频。
 
 [https://www.instagram.com/p/CQj2NG1BwV7/?hl=en](https://www.instagram.com/p/CQj2NG1BwV7/?hl=en)
 
